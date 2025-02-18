@@ -1,6 +1,6 @@
-## Olá galera 👋
+## 👋
 
 
-- 🔭 Atualmente estou trabalhando como desenvolvedor Frontend
-- 🌱 Estou estudando constantemente tecnologias como React, Svelte, RestAPIS, e MongoDB
-- 👯 Estou procurando por novas oportunidades
+- 🔭 Atualmente estou trabalhando como desenvolvedor
+- 🌱 Estou estudando constantemente tecnologias como React,Typescript e Express.
+- 🏃🏻‍♀️ Estou procurando por novas oportunidades
