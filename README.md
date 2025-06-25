@@ -16,7 +16,7 @@
 
 ---
 
-## 🧰 Tecnologias & Ferramentas
+<h1>🧰 Tecnologias & Ferramentas</h1>
 
 <p align="center">
   <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/></a>
@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 Sobre Mim
+<h1>🚀 Sobre Mim</h1>
 
 - 🎓 Formado em Engenharia de Software, atualmente atuando como fullstack.
 - 💼 Experiência em desenvolvimento de APIs REST com **Spring Boot** e **Express.js**.
