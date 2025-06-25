@@ -26,7 +26,7 @@
 
 ---
 
-<h1>🚀 Sobre Mim</h1>
+<h3>🚀 Sobre Mim</h3>
 
 - 🎓 Formado em Engenharia de Software, atualmente atuando como fullstack.
 - 💼 Experiência em desenvolvimento de APIs REST com **Spring Boot** e **Express.js**.
