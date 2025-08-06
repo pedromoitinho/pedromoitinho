@@ -27,7 +27,7 @@
 
 - 🎓 Formado em Engenharia de Software, atualmente atuando como fullstack.
 - 💼 Experiência em desenvolvimento de APIs REST com **Spring Boot** e **Express.js**.
-- 🎨 Front-end moderno com **React**.
+- 🎨 Front-end moderno com **React** e **Next**.
 - ☁️ Conhecimento em **Docker**, **Postgres**, **Postman**...
 
 ---
