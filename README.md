@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Pedro Moitinho</h1>
-  <p>Desenvolvedor Java/Node/React</p>
+  <p>Backend Developer</p>
   <p>
     <a href="https://www.linkedin.com/in/pedrohmoitinho" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -13,7 +13,7 @@
 
 ---
 
-<h2 align="center">🧰 Tecnologias & Ferramentas</h2>
+<h2 align="center">🧰 My Stack</h2>
 
 <p align="center">
   <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/></a>
@@ -23,12 +23,10 @@
 
 ---
 
-<h2 align="center">Sobre Mim</h2>
+<h2 align="center">About Me</h2>
 
-- 🎓 Formado em Engenharia de Software, atualmente atuando como fullstack.
-- 💼 Experiência em desenvolvimento de APIs REST com **Spring Boot** e **Express.js**.
-- 🎨 Front-end moderno com **React** e **Next**.
-- ☁️ Conhecimento em **Docker**, **Postgres**, **Postman**...
+- 🎓 Bachelor of Software Engineering.
+- 💼 Expertise in developing with Typescript, Node.JS, Express, Java, Spring, Microsservices, REST APIs, Docker, JWT Auth, Swagger, Postman, Databases(Postgre, SQL, NoSQL, Mongo), React, Next.JS, HTML and CSS, Git, CI/CD Pipelines.
 
 ---
 
