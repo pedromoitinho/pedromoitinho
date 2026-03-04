@@ -1,5 +1,4 @@
-# Software Engineer
-
+# Hi! I am Pedro
 I am a Software Engineering student specializing in high-performance and systems programming. Building on my previous experience in backend development internships, my current work is strictly focused on low-level architecture and optimization.
 
 ### Profile
