@@ -1,22 +1,14 @@
-<div align="center">
-  <h1>Pedro Moitinho</h1>
-  <p>Backend Developer</p>
-  <p>
-    <a href="https://www.linkedin.com/in/pedrohmoitinho" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:pedromoitinhoprado@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
-    </a>
-  </p>
-</div>
+# Software Engineer
 
----
+I am a Software Engineering student specializing in high-performance and systems programming. Building on my previous experience in backend development internships, my current work is strictly focused on low-level architecture and optimization.
 
-<h2 align="center">About Me</h2>
+### Profile
+* **Education:** Software Engineering student, planning to pursue a Master's degree through the EUMaster4HPC program.
+* **Core Interests:** Kernel development, compilers, backend architecture, and low-level programming.
+* **Technical Focus:** Primarily utilizing C++ and Rust to design highly optimized, low-latency systems. 
+* **Career Objectives:** Targeting specialized roles in Quantitative Finance, Systems Engineering, and Simulation Engineering.
 
-- 🎓 Bachelor of Software Engineering.
-- 💼 Expertise in developing with Typescript, Node.JS, Express, Java, Spring, Microsservices, REST APIs, Docker, JWT Auth, Swagger, Postman, Databases(Postgre, SQL, NoSQL, Mongo), React, Next.JS, HTML and CSS, Git, CI/CD Pipelines.
-
----
-
+### Technical Stack
+* **Languages:** C++, Rust
+* **Domains:** Systems Programming, High-Performance Computing (HPC), Compilers, Kernel Architecture
+* **Past Experience:** Typescript, Nest.JS, Docker...
