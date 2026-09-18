@@ -13,7 +13,7 @@ My own work goes lower in the stack: memory allocators, kernel internals and cry
 
 ## Currently building
 
-- **[hyperion](https://github.com/pedromoitinho/hyperion)** — high-performance memory allocator in C++, benchmarked against glibc malloc, jemalloc and mimalloc
+- **[hyperion](https://github.com/pedromoitinho/hyperion)** — custom memory allocator in C++23: mmap arena, doubly linked free list, O(1) coalescing
 - Kernel labs on **MIT xv6** — system calls, page tables, traps, copy-on-write fork, user-level threads
 - Constant-time cryptographic implementations in **Rust**, validated against official test vectors
 
