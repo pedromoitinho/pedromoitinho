@@ -25,4 +25,4 @@ Previously built and shipped a production web platform end to end as the sole en
 
 ## Contact
 
-[pedromoitinho.works](https://pedromoitinho.works) · pedromoitinhoprado@gmail.com
+pedromoitinhoprado@gmail.com
